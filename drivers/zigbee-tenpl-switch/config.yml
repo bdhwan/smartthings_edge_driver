@@ -1,0 +1,4 @@
+name: "zigbee-tenpl-switch"
+packageKey: "zigbee-tenpl-switch"
+permissions:
+  zigbee: {}
